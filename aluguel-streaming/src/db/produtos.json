@@ -1,0 +1,18 @@
+{
+    "filmes-series": [
+        {
+            "id": 1,
+            "name": "Prime Video",
+            "desciption": "Tenha acesso a um mundo de entretenimento no Prime Video. Assista a O Senhor dos Anéis: Os Anéis de Poder, assim como a outros Amazon Originals, filmes populares e séries de sucesso – tudo incluso em sua inscrição no Prime.",
+            "publisher": "Amazon"
+        }
+    ],
+    "musicas": [
+        {
+            "id": 1,
+            "name": "Spotify",
+            "desciption": "O Spotify Premium é um serviço de streaming digital que dá acesso a milhões de músicas sem anúncios.",
+            "publisher": "Spotify"
+        }
+    ]
+}

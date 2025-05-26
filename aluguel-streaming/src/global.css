@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+:root {
+    --text-color: #f3f3f3;
+    --card-color: #5e5e5e;
+    --primary-color: #4d4b4b;
+    --secondary-color: #8d8d8d;
+    --tertiary-color: #ebe4d6;
+    --background-color: #001427;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: var(--background-color);
+    color: var(var(--text-color));
+    height: 100vh;
+    width: 100%;
+}
